@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Suyesh Bhandari"]
   s.email       = ["suyeshb@gmail.com"]
   s.homepage    = "https://github.com/suyesh/blaze-rails"
-  s.summary     = "SASS version of Blaze CSS"
+  s.summary     = "SASS version of Blaze CSS. ***WORK IN PROGRESS***"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
