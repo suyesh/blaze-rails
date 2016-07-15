@@ -1,6 +1,8 @@
 # BlazeRails
 [![Gem Version](https://badge.fury.io/rb/blaze_rails.svg)](https://badge.fury.io/rb/blaze_rails)
 
+####VERSION - 0.1.2.pre.beta2 
+
 Rails Gem for [Blaze-css](http://blazecss.com/)
 **NOTE: This gem is not tested and still in development process.**
 
