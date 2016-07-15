@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.version     = BlazeRails::VERSION
   s.authors     = ["Suyesh Bhandari"]
   s.email       = ["suyeshb@gmail.com"]
-  s.homepage    = "https://github.com"
+  s.homepage    = "https://github.com/suyesh/blaze-rails"
   s.summary     = "SASS version of Blaze CSS"
   s.license     = "MIT"
 
