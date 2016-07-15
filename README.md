@@ -1,7 +1,7 @@
 # BlazeRails
 [![Gem Version](https://badge.fury.io/rb/blaze_rails.svg)](https://badge.fury.io/rb/blaze_rails)
 
-####VERSION - 0.1.2-beta3
+####VERSION - 0.1.2-beta3.1
 
 Rails Gem for [Blaze-css](http://blazecss.com/)
 **NOTE: This gem is not tested and still in development process.**
@@ -20,8 +20,7 @@ gem 'sass-rails', '>= 3.4.2'
 
 
 ```scss
-@import "blaze_rails";
-@import "blaze_rails/mixins"
+@import "blaze";
 ```
 
 ## Contributing
