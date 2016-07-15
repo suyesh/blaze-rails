@@ -19,6 +19,7 @@ gem 'sass-rails', '>= 3.4.2'
 
 ```scss
 @import "blaze_rails";
+@import "blaze_rails/mixins"
 ```
 
 ## Contributing

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    blaze_rails (0.1.0)
+    blaze_rails (0.1.2.pre.beta)
       rails (~> 5.0.0)
       sass (>= 3.4.22)
 
