@@ -16,8 +16,8 @@
 
 
 Edit application.css
- ```css
- @import "blaze_rails";
+ ```
+ //= require blaze
  ```
 
  ## Contributing
