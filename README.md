@@ -15,9 +15,9 @@
  `bundle install` and restart your server to make the files available through the pipeline.
 
 
-Edit application.css
- ```
- //= require blaze
+Edit application.css.scss
+ ```css
+ @import "css/blaze";
  ```
 
  ## Contributing
