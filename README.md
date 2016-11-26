@@ -3,7 +3,7 @@
 
  Rails Gem for [Blaze-css](http://blazecss.com/)
 
-
+![Blaze Css for Rails](http://blazecss.com/images/blaze.png)
 
 
  ## Installation
