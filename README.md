@@ -17,7 +17,7 @@
 
 Edit application.css.scss
  ```css
- @import "css/blaze";
+ @import "blaze";
  ```
 For Documentation on Blaze Css [visit their site](http://blazecss.com/)
 
